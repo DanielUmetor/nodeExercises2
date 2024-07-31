@@ -3,8 +3,8 @@ const Person = require('./person'); // Import the Person module
 
 // Create three different Person objects
 const person1 = new Person('Daniel', 'Umetor', 'danielumetor@example.com');
-const person2 = new Person('Bob', 'Smith', 'bob.smith@example.com');
-const person3 = new Person('Carol', 'Doe', 'carol.doe@example.com');
+const person2 = new Person('Awodwa', 'Hendrick', 'awodwahendrik@example.com');
+const person3 = new Person('Chelsea', 'Julie', 'chelseajulie@example.com');
 
 // Log the Person objects to the console
 console.log(person1);
